@@ -1,3 +1,4 @@
+🇬🇧 [English version](README.md)
 \# 📚 Gestor de Livros em C++
 
 

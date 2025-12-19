@@ -1,3 +1,4 @@
+🇵🇹 [Versão em Português](README.pt.md)
 \# 📚 Book Manager in C++
 
 
